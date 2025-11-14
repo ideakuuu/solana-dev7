@@ -1,4 +1,4 @@
-# senior-solana-
+# senior-solana-dev project
 Domain tokenization, SPL tokens, and on-chain lending primitives.
 
 ## Structure
