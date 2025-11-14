@@ -1,0 +1,14 @@
+{
+  "name": "doma-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@solana/wallet-adapter-react": "^0.17.0",
+    "@solana/wallet-adapter-wallets": "^0.17.0"
+  },
+  "scripts": {
+    "start": "node ./start.js"
+  }
+}

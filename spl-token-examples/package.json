@@ -1,0 +1,7 @@
+{
+  "name": "spl-token-examples",
+  "version": "0.1.0",
+  "scripts": {
+    "note": "echo 'Use spl-token or @solana/spl-token for real mint/transfer scripts'"
+  }
+}

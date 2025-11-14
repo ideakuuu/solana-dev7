@@ -1,0 +1,14 @@
+[
+  {
+    "name": "example.sol",
+    "tokenId": "DOMAIN001",
+    "owner": "Ff8w...ABC",
+    "metadataUri": "https://example.com/domains/example.json"
+  },
+  {
+    "name": "cool-name.sol",
+    "tokenId": "DOMAIN002",
+    "owner": "4yRt...XYZ",
+    "metadataUri": "https://example.com/domains/cool-name.json"
+  }
+]
